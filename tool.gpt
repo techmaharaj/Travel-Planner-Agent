@@ -1,0 +1,10 @@
+Name: WeatherInfo
+Description: Get the current weather information for a given city.
+Param: city: The city to get weather information for.
+#!/usr/bin/env python3 ${GPTSCRIPT_TOOL_DIR}/main.py
+---
+!metadata:*:category
+Weather
+---
+!metadata:*:icon
+https://www.reshot.com/preview-assets/icons/RDVC82WGXP/weather-RDVC82WGXP.svg
